@@ -1,0 +1,58 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Vc faz TI? Conserta meu celular!",
+      "autoria": "Grupo da família",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Já tentou reiniciar o roteador?",
+      "autoria": "Pessoa da operadora",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Por que meu código funcionou?",
+      "autoria": "Dev ",
+      "modelo": "modelo1",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "conteudo": "Na volta a gente compra!",
+      "autoria": "mãe",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Paloma Desenvolvedora 2025",
+      "autoria": "eu mesma, fé",
+      "modelo": "modelo3",
+      "id": 8
+    },
+    {
+      "conteudo": "Paloma Desenvolvedora Front 2025",
+      "autoria": "eu consigo!",
+      "modelo": "modelo1",
+      "id": 9
+    },
+    {
+      "conteudo": "Paloma você consegue",
+      "autoria": "A Paloma consegue",
+      "modelo": "modelo2",
+      "id": 10
+    },
+    {
+      "conteudo": "Eu consigo",
+      "autoria": "Eu consigo",
+      "modelo": "modelo2",
+      "id": 11
+    }
+  ]
+}
